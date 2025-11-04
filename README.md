@@ -57,8 +57,8 @@ O modelo de **Random Forest Classifier** apresentou o melhor desempenho geral na
 
 | Métrica | Random Forest | Regressão Logística |
 | :--- | :--- | :--- |
-| **Acurácia (Accuracy)** | **0.86** | 0.84 |
-| **F1-Score (média ponderada)** | **0.86** | 0.84 |
+| **Acurácia (Accuracy)** | **0.90** | 0.84 |
+| **F1-Score (média ponderada)** | **0.90** | 0.84 |
 
 O modelo Random Forest é o recomendado para a produção, com uma acurácia de **86%**.
 
